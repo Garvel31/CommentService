@@ -1,0 +1,8 @@
+asyncpg
+databases[postgresql]
+fastapi
+SQLAlchemy
+uvicorn
+httpx
+# psycopg2
+psycopg2-binary~=2.8.6
